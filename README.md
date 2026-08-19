@@ -13,9 +13,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PS5138&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PS5138&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top languages" height="160"/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parivrudh--sharma-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parivrudh-sharma-44759819b)
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=PBBfJokAAAAJ&hl=en)
 
